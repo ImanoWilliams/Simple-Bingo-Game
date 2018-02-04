@@ -1,4 +1,4 @@
-# Simple-Bingo-Game
+# Simple-Bingo-Game (Java)
 
 Generate Bingo Cards:
 <br/>
